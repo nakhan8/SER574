@@ -1,5 +1,5 @@
 Steps to run Build
 
-Download the build folder from here.
+1. Download the build folder from here.
 
-Run the file "New Unity project.exe"
+2. Run the file "New Unity project.exe"
